@@ -1,0 +1,1 @@
+# This is part of the lesson "Foundations Recipes" on The Odin Project
